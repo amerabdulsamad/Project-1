@@ -1,12 +1,12 @@
 .myInfo 
 {
-    font-family: Cambria,'Times New Roman',Garamond,Arial;
+    font-family:  Philosopher,'Times New Roman',Garamond,Arial;
     color:darkblue;
     font-size:20px;
 }
 .Header 
 {
-	font-family: 'Book Antiqua', 'Monotype Corsiva';
+	font-family: Philosopher, 'Monotype Corsiva';
     color:Black;
 	font-size: 3rem
 }
@@ -22,7 +22,7 @@
 .addToList
 {
 	font-size:2.5rem;
-	font-family:'Book Antiqua', Arial;
+	font-family: Philosopher, Arial;
 }
 .right-ribbon
 {
@@ -45,7 +45,7 @@
 	text-decoration: none;
 	color:black;
 	padding: 8px 16px;
-	font-family: 'Book Antiqua', 'Monotype Corsiva';
+	font-family:  Philosopher, 'Monotype Corsiva';
 }
 .navigation
 {
